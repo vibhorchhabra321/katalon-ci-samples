@@ -1,7 +1,7 @@
 Samples for CI configurations using Docker images at https://github.com/katalon-studio/docker-images.
 
 ## Companion products
-Test
+Test-1
 
 ### Katalon TestOps
 
